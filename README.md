@@ -11,8 +11,8 @@ of parallelization using fastflow library ([Official web](http://calvados.di.uni
 In order to compile the project it is important to set FF_ROOT with the path of fastflow library.
 
 ```bash
-git clone dir
-cd fastflow_gameoflife
+git clone https://github.com/3l1a/game-of-life-fastflow
+cd game-of-life-fastflow
 mkdir build
 cd build
 cmake -DFF_ROOT=<your fastflow install directory> ..
