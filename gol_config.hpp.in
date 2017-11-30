@@ -1,0 +1,6 @@
+
+#pragma once
+
+#cmakedefine OPENCV_SCREEN 1
+#define CACHE_LINE  32
+
